@@ -34,7 +34,7 @@ JS FOLDER
 Downloading and running the game
 -------------------------------
 
-1 Find the files by going to the GitHub repository: https://github.com/abgregs/frontend-nanodegree-arcade-game
+1 Find the files by going to the GitHub repository: https://github.com/abgregs/frontend-nanodegree-arcade-game-project
 2 Clone the repository to your local machine: https://help.github.com/articles/cloning-a-repository/
 3 Open the index.html file in your web browser. You should see text displaying the number of lives and the score, and a game board with three enemy bugs moving from left to right across the board, one gem, and one player character.
 
